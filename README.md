@@ -12,11 +12,11 @@ Built using **[sshleifer/distilbart-cnn-12-6](https://huggingface.co/sshleifer/d
 
 ---
 
-## 🚀 Try it in Google Colab  
+## 🚀 Live Demo  
 
 <p align="center">
-  <a href="https://colab.research.google.com/github/your-username/text-summarizer/blob/main/app.ipynb">
-    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  <a href="https://huggingface.co/spaces/jenisha03/Text_Summarizer">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnF6N2V0cG5mNGhlbTdodmpycTRrZnJjZHFtN3E2ZjVhZ2Iyc3RvMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="700" alt="Demo Animation"/>
   </a>
 </p>
 
@@ -39,8 +39,21 @@ Built using **[sshleifer/distilbart-cnn-12-6](https://huggingface.co/sshleifer/d
 ---
 
 ## 📩 Connect With Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/jenisha-s-486b22335/)  
-- 🖥️ [GitHub](https://github.com/jenisha35)  
-- 📧 Gmail: **jenisha.9530@gmail.com**  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jenisha-s-486b22335/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/jenisha35">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="mailto:jenisha.9530@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
 ---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Made+with+❤️+by+Jenisha;AI-powered+Text+Summarizer+App;Try+it+now+in+Colab!" alt="Typing Animation" />
+</p>
