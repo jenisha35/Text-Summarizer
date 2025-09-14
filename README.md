@@ -32,7 +32,7 @@ Built using **[sshleifer/distilbart-cnn-12-6](https://huggingface.co/sshleifer/d
 
 ## ▶️ How to Use  
 
-1. Open the notebook in **Colab** using the badge above.  
+1. Download and Open the notebook in **Colab**.  
 2. Run all cells to install dependencies and launch the app.  
 3. You’ll get a **Gradio link** → click it to open the summarizer.  
 
